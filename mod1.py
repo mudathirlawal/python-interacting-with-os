@@ -1,3 +1,6 @@
+
+#!usr/bin/env python3
+
 filenames = ["program.c", "stdio.hpp", "sample.hpp", "a.out", "math.hpp", "hpp.out"]
 
 newfilenames = [] 
